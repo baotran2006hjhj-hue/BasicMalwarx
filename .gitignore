@@ -1,0 +1,21 @@
+# Binaries / build outputs
+*.exe
+*.dll
+*.rar
+*.dat
+*.o
+*.obj
+*.log
+
+# Generated blobs (rebuild from source)
+embedded.h
+abe/abe_payload_blob.h
+
+# Local tooling / staging
+tools/
+dist/
+
+# Backups
+*.bak
+*.pre_abe.bak
+*.work
